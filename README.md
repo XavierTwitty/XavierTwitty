@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Xavier
-#### I am Full Stack Software Developer 
-I am completely new to the software engineering world and I'm excited to see what the future holds on my journey. My favorite Languages are Javascript and React , I also enjoy creating API's .
+#### I am a Full Stack Software Developer 
+I'm completely new to the software engineering world and I'm excited to see what the future holds on my journey. My favorite Languages are Javascript and React , I also enjoy creating API's .
 
 Skills: SQLite/ Express / REACT / JS / HTML / CSS
 
