@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, my name is Xavier
+#### I am FullStack Software Developer 
+I am completely new to the software engineering world and I'm excited to see what the future holds on my journey. My favorite Languages are Javascript and React , I also enjoy creating API's .
+
+Skills: SQLite/ Express / REACT / JS / HTML / CSS
 
 <!--
 **XavierTwitty/XavierTwitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
