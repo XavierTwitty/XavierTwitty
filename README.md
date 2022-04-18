@@ -4,6 +4,10 @@ I am completely new to the software engineering world and I'm excited to see wha
 
 Skills: SQLite/ Express / REACT / JS / HTML / CSS
 
+- 🔭 I’m currently working on lxbeauty-react 
+- 🌱 I’m currently learning Algorithms  
+- 🤔 I’m looking for help with learning Python  
+- 📫 How to reach me: xtwitty21@gmail.com 
 <!--
 **XavierTwitty/XavierTwitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
