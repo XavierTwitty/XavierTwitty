@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Xavier
 #### I am FullStack Software Developer 
-I'm completely new to the software engineering world.  Before completing BloomTech I was working as line a cook at Outback, dreading the food industry I switched careers and worked with my dad as a contract janitor. Enjoying my time working with him I discovered I liked using computers and I wanted to learn how it works. I'm excited to see what the future holds on my journey with this new knowledge. My favorite Languages are Javascript and React , I also enjoy creating API's .
+I'm excited to be apart of the software engineering world.  Before completing BloomTech I was working as line a cook at Outback, dreading the food industry I switched careers and worked with my dad as a contract janitor. Enjoying my time working with him I discovered I liked using computers and I wanted to learn how it works. I'm excited to see what the future holds on my journey with this new knowledge. My favorite Languages are Javascript and React , I also enjoy creating API's .
 
 Skills: SQLite/ Express / REACT / JS / HTML / CSS
 
