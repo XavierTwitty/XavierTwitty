@@ -4,7 +4,7 @@ I'm excited to be apart of the software engineering world.  Before completing Bl
 
 Skills: SQLite/ Express / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on lxbeauty-react 
+- 🔭 I’m currently working on Redux_reactapp 
 - 🌱 I’m currently learning Algorithms  
 - 🤔 I’m looking for help with learning Python  
 - 📫 How to reach me: xtwitty21@gmail.com 
